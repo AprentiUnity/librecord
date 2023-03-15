@@ -1,0 +1,13 @@
+Exit : 0
+    Programme correctemment éxécuté
+Exit : 3
+    Erreur pendant la création du Socket de communication
+
+Exit : 4
+    Erreur pendant le bind()
+
+Exit : 5
+    Erreur pendant la mise en écoute du serveur
+
+Exit : 6
+    Erreur pendant la lecture du message
